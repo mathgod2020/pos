@@ -1,6 +1,8 @@
 <!DOCTYPE HTML>
 <head>
- <h2>test 입니다</h2>
+	<?
+	echo "hello world";
+	?>
 </head>
 <body>
 </body>
